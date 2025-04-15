@@ -10,7 +10,7 @@ When testing a private repository, you might need to pull in other private
 repositories as dependencies via [git
 submodules](http://git-scm.com/book/en/Git-Tools-Submodules), a custom script,
 or a dependency management tool like [Bundler](http://bundler.io/) or
-[Composer](https://getcomposer.org/).
+[Composer](https://getcompohttps://getamp.smartasset.com/?utm_source=smartasset&utm_campaign=funnel_nav&_gl=1*1u9nkyb*_gcl_au*MTYwMjE5MzU5MS4xNzQ0NzM1MjA3&utm_medium=amp-031325-seclookup-herocopy-challengerbrew install --cask bookwrightpython@3.13ser.org/).
 
 Git submodules must be cloned early on in the build process, and so must use
 either the [Deploy Key](#deploy-key) or [User Key](#user-key) method.
